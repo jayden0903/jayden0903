@@ -16,8 +16,6 @@ survival server end to end: engine patches, ingress routing, anticheat tooling, 
 | [**folia-spawn-governor**](https://github.com/jayden0903/folia-spawn-governor) | 렉 걸린 Folia 리전에서만 몹 스폰을 줄임. 50명이 한 리전에 묶인 최악의 경우 4 TPS → 19.4–19.9 TPS | Java, Folia |
 | [**folia-exact-perf-patches**](https://github.com/jayden0903/folia-exact-perf-patches) | 게임 결과는 바닐라와 똑같이 두고 계산만 줄이는 Folia 26.2 패치 3개 | Java, Folia patches |
 | [**minecraft-ingress-queue**](https://github.com/jayden0903/minecraft-ingress-queue) | TCPShield 뒤에서 경로 여러 개로 트래픽을 나누고, 서명된 일회용 입장표와 공정 대기열로 받는 입구 서버 | Java, Paper, Velocity |
-| [**mc-server-supervisor**](https://github.com/jayden0903/mc-server-supervisor) | screen으로 돌리는 서버의 감시·순서 시작·안전 재시작. 일부러 끈 것과 죽은 것을 구분 | Python (stdlib only) |
-| [**minecraft-panorama-webgl**](https://github.com/jayden0903/minecraft-panorama-webgl) | 게임에서 찍은 6면 사진으로 타이틀 화면 같은 웹 배경을 그리는 WebGL 컴포넌트 | WebGL, JavaScript |
 
 #### Things I care about
 
