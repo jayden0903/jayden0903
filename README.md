@@ -25,12 +25,3 @@
 | [**folia-exact-perf-patches**](https://github.com/jayden0903/folia-exact-perf-patches) | 게임 결과는 바닐라와 똑같이 두고 계산만 줄이는 Folia 26.2 패치 3개 | Java, Folia patches |
 | [**minecraft-ingress-queue**](https://github.com/jayden0903/minecraft-ingress-queue) | TCPShield Free 플랜 여러 개로 월 수 TB 트래픽을 디도스 방어하는 라우터 | Java, Paper, Velocity |
 
-### Numbers
-
-<table>
-<tr>
-<td align="center"><b>4 → 19.9</b><br><sub>TPS, 50명 한 리전</sub></td>
-<td align="center"><b>3</b><br><sub>바닐라와 결과가 같은 Folia 패치</sub></td>
-<td align="center"><b>24/7</b><br><sub>SJNoDE 운영</sub></td>
-</tr>
-</table>
