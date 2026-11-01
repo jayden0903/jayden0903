@@ -4,7 +4,7 @@
 
 **2013 · Korean Developer**
 
-서버 인프라와 게임 서버, macOS 도구를 만듭니다.
+나를 채용해가라 네카라쿠배당토
 
 [![SJNoDE](https://img.shields.io/badge/SJNoDE-sjnode.kr-2563eb?style=for-the-badge)](https://sjnode.kr/)
 [![Homebrew](https://img.shields.io/badge/brew-jayden0903%2Ftap-f9d094?style=for-the-badge&logo=homebrew&logoColor=black)](https://github.com/jayden0903/homebrew-tap)
