@@ -6,8 +6,8 @@
 
 나를 채용해가라 네카라쿠배당토
 
-[![SJNoDE](https://img.shields.io/badge/SJNoDE-sjnode.kr-2563eb?style=for-the-badge)](https://sjnode.kr/)
-[![Homebrew](https://img.shields.io/badge/brew-jayden0903%2Ftap-f9d094?style=for-the-badge&logo=homebrew&logoColor=black)](https://github.com/jayden0903/homebrew-tap)
+[![SJNoDE](https://img.shields.io/badge/SJNoDE-sjnode.kr-2563eb?style=flat-square)](https://sjnode.kr/)
+[![Homebrew](https://img.shields.io/badge/brew-jayden0903%2Ftap-f9d094?style=flat-square&logo=homebrew&logoColor=black)](https://github.com/jayden0903/homebrew-tap)
 
 <img src="https://skillicons.dev/icons?i=java,python,nodejs,php,swift,linux,docker,nginx,cloudflare&perline=9" alt="Java, Python, Node.js, PHP, Swift, Linux, Docker, nginx, Cloudflare" />
 
